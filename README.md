@@ -1,3 +1,5 @@
 # 6companies-30-days
 6 companies 30 days challenge by ARSH GOYAL (YOUTUBER) FIRST COMPANY - Microsoft .
 IN THIS CHALLENGE HE AIM TO COMPLETE 6 COMPANIES DSA QUESTIONS IN # 30 DAYS .
+https://docs.google.com/document/d/1jkVKWPcOAE2Xjt7GFLV-M8N50HygZpWcO26REFa7dZM/edit
+QUESTION DOCUMENT 
